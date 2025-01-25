@@ -11,3 +11,5 @@
 **BATCH DURATION**: January 30th, 2025 to March 1st, 2025
 
 **MENTOR NAME**: NEELA SANTHOSH
+
+# TASK-1(DEEP_LEARNING-_PROJECT(Functional Image Classification and NLP Models with PyTorch)
