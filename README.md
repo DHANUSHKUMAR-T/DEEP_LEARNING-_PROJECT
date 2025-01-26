@@ -49,3 +49,8 @@ This project implements deep learning models for two major tasks: Image Classifi
 *Dataset Handling:* TorchVision, NLTK, SpaCy
 
 *Visualization Tools:* Matplotlib
+
+#
+
+**OUTPUT**
+
