@@ -56,4 +56,14 @@ This project implements deep learning models for two major tasks: Image Classifi
 
 ![Image](https://github.com/user-attachments/assets/b39be132-7903-4a8e-89c1-077aafd4f8d7)
 
-These are the commands for deep learning, and here the NLP is used
+**These are the commands for deep learning, and here the NLP is used**
+#
+For analyzing images of animals, objects, or any other subjects, simply use the command:
+analyze <image_file_name>
+
+This will process the provided image and generate a descriptive caption, giving you a quick summary of what’s captured.
+#
+For real-time image capture and analysis using the camera, you can use the command:
+capture
+
+The assistant will instantly capture a photo and provide a caption, making it easier to identify and describe objects or scenes on the spot.
