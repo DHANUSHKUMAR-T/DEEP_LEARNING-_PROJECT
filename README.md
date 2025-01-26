@@ -68,6 +68,6 @@ This will process the provided image and generate a descriptive caption, giving 
 **For real-time image capture and analysis using the camera, you can use the command:
 capture**
 
-
+![Image](https://github.com/user-attachments/assets/71e169e5-f414-432d-b87e-cd1c02ad7176)
 
 The assistant will instantly capture a photo and provide a caption, making it easier to identify and describe objects or scenes on the spot.
