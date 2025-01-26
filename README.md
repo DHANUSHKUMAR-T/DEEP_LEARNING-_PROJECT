@@ -67,6 +67,11 @@ test_image.jpg
 
 ![Image](https://github.com/user-attachments/assets/a61c3917-08d1-4be7-9906-2f4df610a715)
 
+#
+test_image1.jpg
+
+
+
 This will process the provided image and generate a descriptive caption, giving you a quick summary of what’s captured.
 #
 **For real-time image capture and analysis using the camera, you can use the command:
