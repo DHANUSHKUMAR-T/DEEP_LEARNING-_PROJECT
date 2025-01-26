@@ -61,6 +61,10 @@ This project implements deep learning models for two major tasks: Image Classifi
 **For analyzing images of animals, objects, or any other subjects, simply use the command:
 analyze <image_file_name>**
 
+test_image.jpg
+
+
+
 ![Image](https://github.com/user-attachments/assets/a61c3917-08d1-4be7-9906-2f4df610a715)
 
 This will process the provided image and generate a descriptive caption, giving you a quick summary of what’s captured.
