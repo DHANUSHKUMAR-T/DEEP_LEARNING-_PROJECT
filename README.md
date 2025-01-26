@@ -72,7 +72,7 @@ test_image1.jpg
 
 ![Image](https://github.com/user-attachments/assets/b4c2a31e-e9d1-4890-8d5a-997424fc41cc)
 
-
+![Image](https://github.com/user-attachments/assets/0abadaa0-742f-4dea-a934-c25c27af2eb1)
 
 This will process the provided image and generate a descriptive caption, giving you a quick summary of what’s captured.
 #
