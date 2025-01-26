@@ -53,4 +53,6 @@ This project implements deep learning models for two major tasks: Image Classifi
 #
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/b39be132-7903-4a8e-89c1-077aafd4f8d7)
 
+These are the commands for deep learning, and here the NLP is used
