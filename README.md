@@ -23,8 +23,14 @@ This project implements deep learning models for two major tasks: Image Classifi
  #
  **✨ Features**
 *Dual Focus: Support for both Image Classification and NLP tasks.
+
 *Framework Flexibility: Compatible with both TensorFlow and PyTorch frameworks.
+
 *Visualization Tools: Clear and interactive visualizations for model performance metrics (e.g., accuracy, loss).
+
 *Preprocessing Pipelines: Automated data preprocessing for both images and text.
+
 *Customizability: Modular design to accommodate different datasets and hyperparameter tuning.
+
 *Documentation: Well-documented code with examples for seamless implementation.
+
