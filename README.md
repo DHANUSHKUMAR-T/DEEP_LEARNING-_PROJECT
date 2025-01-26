@@ -63,7 +63,7 @@ analyze <image_file_name>**
 
 test_image.jpg
 
-
+![Image](https://github.com/user-attachments/assets/b283ff9e-7c7e-496c-a137-b794fd8742bc)
 
 ![Image](https://github.com/user-attachments/assets/a61c3917-08d1-4be7-9906-2f4df610a715)
 
