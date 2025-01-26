@@ -22,6 +22,7 @@
 This project implements deep learning models for two major tasks: Image Classification and Natural Language Processing (NLP). Leveraging the power of TensorFlow and PyTorch, the models are designed to provide high accuracy and efficiency while being easy to customize for various datasets and applications. The project also includes detailed visualizations of results to aid understanding and analysis.
  #
  **✨ Features**
+ 
 *Dual Focus: Support for both Image Classification and NLP tasks.
 
 *Framework Flexibility: Compatible with both TensorFlow and PyTorch frameworks.
